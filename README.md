@@ -22,7 +22,7 @@ Artist <br>Engineer<br>inventor <br>Innovative<br>Creative<br>Co-founders of Ewa
 ![](https://github-contributor-stats.vercel.app/api?username=jwattspajaro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="![image](https://github.com/jwattspajaro/jwattspajaro/assets/18930760/d745d54b-c018-4fb6-8bc7-8fab39c2ffc0)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jwattspajaro&icon=2&color=1)](https://visitcount.itsvg.in)
