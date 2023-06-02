@@ -28,6 +28,6 @@ Artist | engineer | inventor | innovative | creative | Co-founders of Ewatts & H
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jwattspajaro&icon=0&color=0)](https://visitcount.itsvg.in)
+[![][![](https://visitcount.itsvg.in/api?id=Jwattspajaro&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
