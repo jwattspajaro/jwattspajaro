@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎨Artist <br>👷Engineer<br>💡inventor <br>🔆Innovative<br>🧑‍🎨Creative<br>Co-founders of Ewatts & HerzIA
+🎨Artist <br>👷Engineer<br>💡inventor <br>🔆Innovative<br>🧑‍🎨Creative<br>Co-### founders of Ewatts & HerzIA
 
 
 ## 🌐 Socials:
