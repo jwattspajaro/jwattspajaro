@@ -28,3 +28,6 @@ Artist <br>Engineer<br>inventor <br>Innovative<br>Creative<br>Co-founders of Ewa
 [![](https://visitcount.itsvg.in/api?id=jwattspajaro&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![image](https://github.com/jwattspajaro/jwattspajaro/assets/18930760/d745d54b-c018-4fb6-8bc7-8fab39c2ffc0)
+
