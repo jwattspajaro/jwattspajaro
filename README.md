@@ -28,3 +28,5 @@
 [![](https://visitcount.itsvg.in/api?id=jwattspajaro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+https://certificates.cs50.io/8b2d8123-d78d-4cf1-a9a3-4f5a4ef87222.pdf?size=letter
