@@ -29,4 +29,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-https://certificates.cs50.io/8b2d8123-d78d-4cf1-a9a3-4f5a4ef87222.pdf?size=letter
+![image](https://github.com/jwattspajaro/jwattspajaro/assets/18930760/e062c901-c2b5-4312-9c47-14c660c149de)
+
