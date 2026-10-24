@@ -57,7 +57,7 @@ Ingeniería Mecánica y Especialización en Gerencia de Mercadeo (Universidad Te
 ## 🔗 Dónde encontrarme
 
 [![Web](https://img.shields.io/badge/ewatts.co-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ewatts.co)
-[![Arte](https://img.shields.io/badge/jairowatts.art-8B4513?style=flat-square&logo=artstation&logoColor=white)](https://jairowatts.art)
+[![Arte](https://img.shields.io/badge/jairowatts.com-8B4513?style=flat-square&logo=artstation&logoColor=white)](https://www.jairowatts.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-watts-pajaro-5a07688a)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-9647-973X)
 [![Instagram](https://img.shields.io/badge/@jwatts__art-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jwatts_art)
