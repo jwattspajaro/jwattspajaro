@@ -1,6 +1,6 @@
 # Jairo Watts Pájaro
 
-**CEO de [Watts Enterprise Group](https://www.ewatts.co) · Ingeniero mecánico e inventor · Artista visual**
+**CEO de [Watts Enterprise Group](https://www.ewatts.co) · Ingeniero mecánico e inventor · Artista visual**<br>
 Barranquilla, Colombia 🇨🇴
 
 Llevo 25 años convirtiendo problemas concretos en productos que funcionan. Empecé diseñando y fabricando maquinaria de empaque (tengo una patente de invención otorgada por la SIC); hoy construyo software con **inteligencia artificial, ciencia de datos y blockchain**. También pinto: mi obra explora la identidad afrocaribeña y la memoria de Cartagena y Barranquilla.
