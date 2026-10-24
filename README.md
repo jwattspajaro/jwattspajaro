@@ -1,35 +1,76 @@
-# 💫 About Me:
-🎨Artist<br>👷Engineer<br>💡inventor<br>🔆Innovative<br>👨🏼‍🔬Creative
+# Jairo Watts Pájaro
 
+**CEO de [Watts Enterprise Group](https://www.ewatts.co) · Ingeniero mecánico e inventor · Artista visual**
+Barranquilla, Colombia 🇨🇴
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jwatts#2533) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jwatts.pajaro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ewatts.co?igshid=NTc4MTIwNjQ2YQ== ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jairo-watts-pajaro-5a07688a ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@jairo_watts) 
+Llevo 25 años convirtiendo problemas concretos en productos que funcionan. Empecé diseñando y fabricando maquinaria de empaque (tengo una patente de invención otorgada por la SIC); hoy construyo software con **inteligencia artificial, ciencia de datos y blockchain**. También pinto: mi obra explora la identidad afrocaribeña y la memoria de Cartagena y Barranquilla.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jwattspajaro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jwattspajaro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jwattspajaro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@jairo_watts)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jwattspajaro&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+> *EN — CEO of Watts Enterprise Group, mechanical engineer, patented inventor and visual artist from Colombia's Caribbean coast. I build AI, data and blockchain products for healthcare, elections, foreign trade and the arts.*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jwattspajaro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧩 Lo que construyo · What I build
+
+Ocho marcas, un mismo grupo: **ideas que se vuelven empresas**.
+
+| Marca | Qué hace | Área |
+|---|---|---|
+| [**Escudoor**](https://www.ewatts.co/empresas/scudoor) | Gestión de campañas y custodia verificable de actas E-14 (IPFS) | Tecnología electoral |
+| [**HerzIA**](https://www.ewatts.co/empresas/herzia) | Seguimiento de pacientes con diabetes e hipertensión, teleconsulta, HL7 FHIR R4 | Salud digital |
+| [**Notary**](https://www.ewatts.co/empresas/notary) | Certificados digitales infalsificables sobre blockchain (Scolcoin) | Blockchain |
+| [**Cota**](https://cota.ewatts.co) | Diagnóstico de gestión de la innovación frente a ISO 56001 | Innovación |
+| [**RComexT**](https://www.ewatts.co/empresas/rcomex) | Inteligencia de comercio exterior con datos de la DIAN | Comercio exterior |
+| [**Arsilia**](https://arsilia.art) | Galería digital: el artista muestra, encarga y cobra, con huella SHA-256 por obra | Arte y cultura |
+| [**Watts Facturación**](https://www.ewatts.co/empresas/facturacion) | Facturación electrónica directa con la DIAN | Fintech |
+| [**VECTOR**](https://www.ewatts.co/empresas/vector) | ERP predictivo para comercios con inventario | Comercio |
+
+La mayoría de los repositorios son privados. Si quieres ver una demo o colaborar, [escríbeme](mailto:jwatts.pajaro@gmail.com).
+
+## 💻 Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=flat-square&logo=dassaultsystemes&logoColor=white)
+
+## 🎓 Formación
+
+Ingeniería Mecánica y Especialización en Gerencia de Mercadeo (Universidad Tecnológica de Bolívar) · Advanced Negotiation (UC Berkeley) · Executive Development (Notre Dame) · MITx 6.00.1x Computer Science with Python · GalileoX Inteligencia Artificial · Google Career Certificates (Python, Git) · Técnico en Gestión y Promoción Artística y Diplomado en Curaduría (ESAT)
+
+## 🔗 Dónde encontrarme
+
+[![Web](https://img.shields.io/badge/ewatts.co-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ewatts.co)
+[![Arte](https://img.shields.io/badge/jairowatts.art-8B4513?style=flat-square&logo=artstation&logoColor=white)](https://jairowatts.art)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairo-watts-pajaro-5a07688a)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-9647-973X)
+[![Instagram](https://img.shields.io/badge/@jwatts__art-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jwatts_art)
+[![X](https://img.shields.io/badge/@jairo__watts-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jairo_watts)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jwatts.pajaro@gmail.com)
+
+## 📊 Actividad
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=jwattspajaro&theme=dark&hide_border=true&count_private=true&show_icons=true)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jwattspajaro&theme=dark&hide_border=true&layout=compact)
+
+---
 
 ![image](https://github.com/jwattspajaro/jwattspajaro/assets/18930760/e062c901-c2b5-4312-9c47-14c660c149de)
 
 ![image](https://github.com/jwattspajaro/jwattspajaro/assets/18930760/2a992b41-3008-4077-9c01-cfd66239443c)
-
